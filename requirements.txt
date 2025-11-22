@@ -1,0 +1,4 @@
+Django
+chatterbot
+chatterbot-corpus
+spacy
